@@ -17,7 +17,7 @@ public class Gameplay  extends JPanel implements KeyListener, ActionListener {
  private int tijolosTotais = 21;
  
  private Timer cronometro;
- private int demora = 8;
+ private int demora = 10;
  
  private int jogadorX = 310;
  
