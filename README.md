@@ -5,4 +5,9 @@
 ![tela-inicial.PNG](tela-inicial.PNG)
 
 
+## Jogo iniciado em que a bola vai atingindo os blocos e agrupando pontos até o fim dos blocos
+
+![Tela-jogo-fluindo.PNG](Tela-jogo-fluindo.PNG)
+
+
 
