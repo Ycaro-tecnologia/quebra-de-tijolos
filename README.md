@@ -5,5 +5,4 @@
 ![tela-inicial.PNG](tela-inicial.PNG)
 
 
-![20200603_115559.mp4](20200603_115559.mp4)
 
